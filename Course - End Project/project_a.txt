@@ -1,0 +1,7 @@
+401,Rahul,Laptop,53000
+402,Bablu,Smartphone,19000
+403,Monu,Headphones,2400
+404,Guddu,Tablet,21000
+405,Mukesh,Mouse,750
+406,Sonu,Keyboard,1600
+407,Pulkit,Monitor,13000
